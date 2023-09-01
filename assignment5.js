@@ -3,6 +3,7 @@
 // Question no 1 and 2
 var studentName = [];
 studentName;
+
 // Question no 3
 var dailyItems = ['Double Roti', 'Eggs', 'Butter', 'Murgh Chole', 'Halwa Poori', 'Tea'];
 dailyItems;
